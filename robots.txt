@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://paskpla.github.io/sitemap/sitemap.txt
